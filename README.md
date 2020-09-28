@@ -7,9 +7,15 @@ The program basically takes the phrase that the user inputs and looks up each wo
 
 Here's an exemple, if the input is: "That's a demonstration to show PLAYLISTEXT in action, this words will become a playlist"
 
-The playlist created will look like this:   -Demonstration
-                                            -Action
-                                            -Words
-                                            -Will
-                                            -Become
-                                            -Playlist
+The playlist created will look like this:      
+-Demonstration 
+
+-Action 
+
+-Words 
+
+-Will 
+
+-Become 
+
+-Playlist
