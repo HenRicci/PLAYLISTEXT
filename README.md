@@ -1,5 +1,5 @@
 # PLAYLISTEXT
-A program that makes Spotify's playlists based in sentences
+A Python program that makes Spotify's playlists based in text.
 
 This is my first program using an API. For this project I choose to use the library Spotipy to work with, since it's the easiest tool to work with Spotify's API in Python, as far as I know.
 
